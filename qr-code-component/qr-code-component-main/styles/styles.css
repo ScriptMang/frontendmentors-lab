@@ -2,6 +2,10 @@ body {
     background-color: #D5E1EF;
 }
 
+section {
+    background-color: #FFFFFF;
+}
+
 #item2 {
     color: #1F314F;
     font-family: "Outfit", Bold;
