@@ -2,6 +2,12 @@ body {
     background-color: #D5E1EF;
 }
 
+img {
+    height: 288px;
+    width: 288px;
+    border-radius: 10px;
+}
+
 section {
     display: flex;
     flex-direction: column;
